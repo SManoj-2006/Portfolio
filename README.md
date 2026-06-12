@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SManoj-2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://savaramanojportfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-savara-a76383312/)
 [![Email](https://img.shields.io/badge/Email-7B2FBE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savaramanoj2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SManoj-2006)
@@ -375,7 +375,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-savaramanoj2006%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savaramanoj2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manoj--kumar--savara-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-savara-a76383312/)
 [![GitHub](https://img.shields.io/badge/GitHub-SManoj--2006-7B2FBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SManoj-2006)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SManoj-2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white)](https://savaramanojportfolio.netlify.app)
 
 </div>
 
