@@ -103,12 +103,12 @@ I hold industry certifications from Oracle, AWS, and NVIDIA, and have contribute
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Large Language Models | ██████████ Advanced | GPT-series, Claude, prompt chaining, system design |
-| Retrieval-Augmented Generation | █████████░ Advanced | Vector DBs, embedding pipelines, hybrid search |
-| Prompt Engineering | ██████████ Expert | Few-shot, chain-of-thought, structured output design |
+| Large Language Models | ████████░░ Proficient | GPT-series, Claude, prompt chaining, system design |
+| Retrieval-Augmented Generation | ███████░░░ Intermediate | Vector DBs, embedding pipelines, hybrid search |
+| Prompt Engineering | ███████░░░ Intermediate| Few-shot, chain-of-thought, structured output design |
 | Machine Learning Workflows | ███████░░░ Intermediate | Model training, evaluation, feature engineering |
 | NLP Techniques | ████████░░ Proficient | Entity extraction, classification, semantic similarity |
-| LLM Application Architecture | █████████░ Advanced | Multi-agent orchestration, tool use, RAG agents |
+| LLM Application Architecture | ███████░░░ Intermediate | Multi-agent orchestration, tool use, RAG agents |
 
 </div>
 
@@ -305,17 +305,7 @@ Participated in an intensive four-week AI internship program organized in collab
 
 <br/>
 
----
 
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SManoj-2006&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
 
 ---
 
